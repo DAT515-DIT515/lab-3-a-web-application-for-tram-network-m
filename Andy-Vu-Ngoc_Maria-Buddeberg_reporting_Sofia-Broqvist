@@ -11,7 +11,7 @@ B2: Is the submission successfully accounting for Bonus Part 2? --> yes
 
 Section 3: Code quality
 
-- dijkstra is implemented, and used as intended.
+- dijkstra is implemented, and used as intended. Distances changed by using the cost function. Standard distance set to 1, and changed to the transition time (time between stops) in the application of dijkstra in tramviz. 
 - code from lab2 is reused
 
 Section 4: Screenshots Insert two screenshots:
