@@ -1,0 +1,24 @@
+Section 1: Core assignment
+
+Q1: Does the application run? --> yes
+Q2: Does the application display the complete map of tram lines? --> yes
+Q3: Is it possible to query shortest path between any two points? --> yes
+
+Section 2: Optional tasks
+
+B1: Is the submission successfully accounting for Bonus Part 1? --> no
+B2: Is the submission successfully accounting for Bonus Part 2? --> yes
+
+Section 3: Code quality
+
+- dijkstra is implemented, and used as intended.
+- code from lab2 is reused
+
+Section 4: Screenshots Insert two screenshots:
+
+
+screenshot 1 must present the web application displaying a shortest path between two stops (similar to the one presented in the assignement here but with different tram stops than in the example)
+Uploaded in repository 
+
+screenshot 2 must present the code of the function show_shortest() (the main function required in the core part of the assignment, see here).
+Uploaded in repository 
