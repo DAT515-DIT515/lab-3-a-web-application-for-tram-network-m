@@ -1,0 +1,18 @@
+Peer review on Andy Vu Ngoc and Maria Buddeberg
+
+Section 1
+Q1: Yes
+Q2: Yes
+Q3: Yes
+
+Section 2
+B1: No
+B2: Yes
+
+Section 3
+Dijkstra is implementet and used as intended and the function works by just changing the cost function.
+Code is reused from lab2.
+
+Section 4
+Uploaded screenshots on gitup in repository.
+
